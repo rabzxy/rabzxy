@@ -177,9 +177,9 @@ docker pull ghcr.io/codebymitch/titanbot:main
    Edit `.env` with your configuration (only the following variables require configuration, leave remaining variables as default):
    ```env
    # Discord Bot Configuration
-   DISCORD_TOKEN=your_discord_bot_token_here
-   CLIENT_ID=your_discord_client_id_here
-   GUILD_ID=your_discord_guild_id_here
+   DISCORD_TOKEN=MTUzMzk4MTcxMzQyMjc0NTY0MA.G7c_YT.0RArUy1ts9M95FY2YlEH4c7gGMgrutYlqsj8GQ
+   CLIENT_ID=1533981713422745640
+   GUILD_ID=1527143344592130222
 
    # PostgreSQL Configuration (Primary Database)
    POSTGRES_URL=postgresql://postgres:yourpassword@localhost:5432/titanbot
