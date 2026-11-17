@@ -24,7 +24,7 @@ Hi there! I am a **Solo / All-Rounder Roblox Developer** who handles game develo
 * 🎮 **Core Focus:** Building clean, structured, and enjoyable game systems.
 * 🛠️ **Workflow:** Utilizing external code editors and version control to maintain clean code standards for Roblox projects.
 * 🌱 **Currently Learning:** Advancing game architectural patterns in Luau and pushing solo project limits.
-* 📫 **Contact:** Reach out to me via Discord at **`rabzxy`** or check out my portfolio on my **[Roblox Profile](https://www.roblox.com/809105129)**.
+* 📫 **Contact:** Reach out to me via Discord at **`rabzxy`** or check out my portfolio on my **[Roblox Profile](https://www.roblox.com/users/809105129)**.
 
 ---
 
