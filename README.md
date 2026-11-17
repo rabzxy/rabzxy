@@ -9,8 +9,9 @@
   </a>
 </p>
 
+<!-- VISITOR COUNTER & STATUS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GANTI_USERNAME_GITHUB_KAMU&style=for-the-badge&color=00A2FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rabzxy&label=Profile%20Views&color=00A2FF&style=for-the-badge" alt="Visitor Counter" />
   <img src="https://img.shields.io/badge/Status-Building_Games-success?style=for-the-badge" alt="Status" />
 </p>
 
@@ -65,3 +66,18 @@ Hi there! I am a **Solo / All-Rounder Roblox Developer** who handles game develo
 ### 🎮 Featured Projects
 
 * **[ONGOING]**
+
+---
+
+### 💖 Support / Donate Me
+
+If you like my open-source Roblox modules, games, or just want to support my solo development journey, feel free to buy me a coffee or drop a donation!
+
+<p align="left">
+  <a href="https://paypal.me/Rabzxy" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://saweria.co/rabzxy" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-FAAD14?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Saweria" />
+  </a>
+</p>
