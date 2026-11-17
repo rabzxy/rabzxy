@@ -1,6 +1,6 @@
 <!-- GREETINGS & HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A2FF,100:2C2D72&height=180&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A2FF,100:2C2D72&height=180&section=header&text=Hola%20World!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <p align="center">
